@@ -9,6 +9,7 @@ RSJZ fighting~
 - 2021-05-13 AoMRD
 - 2021-05-14 AoMRD
 - 2021-05-15 APT Paper + NER Summary
+- 2021-05-16 TextCNN + NER Summary + Shui + CCS202
 
 
 
