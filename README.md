@@ -16,7 +16,7 @@ RSJZ fighting~
 - 2021-05-20 AoMRD + APT
 - 2021-05-21 AoMRD + TextCNN multi-view + NER Summary
 - 2021-05-22 TextCNN + TextRNN Summary
-- 2021-05-22 **AoMRD Sumbit**
+- 2021-05-23 **AoMRD Sumbit**
 
 
 
