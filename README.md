@@ -21,6 +21,8 @@ Read & Write & Code & Think
 - 2021-05-23 TextCNN + TextRNN Summary + Weixin Big Data
 - 2021-05-24 **AoMRD Sumbit**  + APT Paper
 - 2021-05-25 APT Paper + Lihuanying + 博士计划
+- 2021-05-26 TextRCNN Classifier + Lihuanying
+- 2021-05-27 TextRCNN Classifier
 
 
 
