@@ -5,7 +5,10 @@ Read & Write & Code & Think
 
 deadline
 - 2021年6月30日 APT Paper
+- 2021年7月10日 ChinaSoft2021
 - APT Research
+- APT NER
+- 编译结合的恶意代码检测
 
 ---
 
