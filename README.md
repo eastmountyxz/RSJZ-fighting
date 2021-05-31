@@ -33,6 +33,7 @@ deadline
 - 2021-05-28 **AoMRD Sumbit** + APT Paper + TextRCNN Classifier
 - 2021-05-29 APT Paper + TextRCNN Classifier
 - 2021-05-30 APT Paper + 贵财个人介绍 + TextRCNN Classifier
+- 2021-05-31 APT Paper + 教材 + 冷门绝学
 
 
 
