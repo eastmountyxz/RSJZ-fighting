@@ -36,6 +36,9 @@ deadline
 - 2021-05-31 APT Paper + 教材 + 冷门绝学
 
 
+**June**
+- 2021-06-01 APT Paper  + TextRCNN Classifier + book
+- 
 
 ---
 
