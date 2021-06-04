@@ -40,8 +40,10 @@ deadline
 - 2021-06-01 APT Paper  + TextRCNN Classifier + book
 - 2021-06-02 APT Paper  + TextRCNN Classifier + book + Lihuanying
 - 2021-06-03 TextRCNN Classifier + book + Lihuanying
-- 2021-06-04 **TextRCNN Classifier** +  **Lihuanying** + CS
-- 
+- 2021-06-04 **TextRCNN Classifier** +  Lihuanying + CS
+- 2021-06-05 book + **Lihuanying** + CS + APT Paper
+
+
 
 ---
 
