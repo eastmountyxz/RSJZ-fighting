@@ -8,6 +8,7 @@ deadline
 - 2021年7月10日 ChinaSoft2021
 - APT Research
 - APT NER
+- APT 静态分析+动态分析
 - 编译结合的恶意代码检测
 
 ---
