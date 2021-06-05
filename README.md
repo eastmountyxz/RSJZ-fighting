@@ -32,7 +32,7 @@ deadline
 - 2021-05-27 TextRCNN Classifier
 - 2021-05-28 **AoMRD Sumbit** + APT Paper + TextRCNN Classifier
 - 2021-05-29 APT Paper + TextRCNN Classifier
-- 2021-05-30 APT Paper + 贵财个人介绍 + TextRCNN Classifier
+- 2021-05-30 APT Paper + 个人介绍 + TextRCNN Classifier
 - 2021-05-31 APT Paper + 教材 + 冷门绝学(拒绝)
 
 
@@ -42,6 +42,7 @@ deadline
 - 2021-06-03 TextRCNN Classifier + book + Lihuanying
 - 2021-06-04 **TextRCNN Classifier** +  Lihuanying + CS
 - 2021-06-05 book + **Lihuanying** + CS + APT Paper
+- 2021-06-05 book + PDDL + APT Paper
 
 
 
