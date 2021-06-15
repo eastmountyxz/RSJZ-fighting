@@ -51,8 +51,9 @@ deadline
 - 2021-06-11 PDDL + Show time
 - 2021-06-12 PDDL + GO home
 - 2021-06-13 Go Home
-- 2021-06-14 PDDL + QWB
-- 2021-06-15 PDDL
+- 2021-06-14 PDDL + QWB CTF
+- 2021-06-15 KG
+- 2021-06-16 CD
 
 
 ---
