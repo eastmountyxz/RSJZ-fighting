@@ -55,11 +55,11 @@ deadline
 - 2021-06-15 KG
 - 2021-06-16 CD
 - 2021-06-17 **CD Show**
-- 2021-06-18 CD + 领域知识图谱
-- 2021-06-19 APT Paper + 领域知识图谱
-- 2021-06-20 APT Paper + 领域知识图谱
-- 2021-06-21 APT Paper + 领域知识图谱
-- 2021-06-22 APT Paper + 领域知识图谱
+- 2021-06-18 CD + Domain-specific KG
+- 2021-06-19 APT Paper + Domain-specific KG
+- 2021-06-20 APT Paper + Domain-specific KG
+- 2021-06-21 APT Paper + Domain-specific KG
+- 2021-06-22 APT Paper + Domain-specific KG
 
 
 
