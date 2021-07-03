@@ -72,8 +72,8 @@ deadline
 
 **July**
 - 2021-07-01 Domain-specific KG + book Malware analysis
-
-
+- 2021-07-02 Domain-specific KG + book Malware analysis
+- 2021-07-03 Domain-specific KG + book Malware analysis
 
 ---
 
