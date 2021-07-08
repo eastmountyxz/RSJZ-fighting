@@ -76,6 +76,8 @@ deadline
 - 2021-07-03 Domain-specific KG + book Malware analysis
 - 2021-07-04 Domain-specific KG + book Malware analysis
 - 2021-07-05 Domain-specific KG + book Malware analysis
+- 2021-07-06 Data Mining + book Malware analysis + **暑假布置**
+- 2021-07-07 Data Mining + book Malware analysis
 
 
 ---
