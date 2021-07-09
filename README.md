@@ -78,7 +78,8 @@ deadline
 - 2021-07-05 Domain-specific KG + book Malware analysis
 - 2021-07-06 Data Mining + book Malware analysis + **暑假布置**
 - 2021-07-07 Data Mining + book Malware analysis
-
+- 2021-07-08 Data Mining + APT Paper
+- 2021-07-09 Data Mining + APT Paper + CTF
 
 ---
 
