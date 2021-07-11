@@ -80,6 +80,10 @@ deadline
 - 2021-07-07 Data Mining + book Malware analysis
 - 2021-07-08 Data Mining + APT Paper
 - 2021-07-09 Data Mining + APT Paper + CTF
+- 2021-07-10 Data Mining + APT Paper + CTF
+- 2021-07-11 APT Paper + CNN + 退修
+
+
 
 ---
 
