@@ -86,7 +86,8 @@ deadline
 - 2021-07-13 APT Paper + book Malware analysis + NER
 - 2021-07-14 APT Paper + book Malware analysis + NER
 - 2021-07-15 APT Paper + NER
-- 2021-07-16 **APT Paper Sumbit** + NER + book Malware analysis
+- 2021-07-16 APT Paper + NER
+- 2021-07-17 **APT Paper Sumbit** + NER + book Malware analysis
 
 ---
 
