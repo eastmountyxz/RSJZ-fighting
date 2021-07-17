@@ -73,21 +73,21 @@ deadline
 **July**
 - 2021-07-01 Domain-specific KG + book Malware analysis
 - 2021-07-02 Domain-specific KG + book Malware analysis
-- 2021-07-03 Domain-specific KG + book Malware analysis
+- 2021-07-03 Domain-specific KG + book Malware analysis + PhD Share
 - 2021-07-04 Domain-specific KG + book Malware analysis
 - 2021-07-05 Domain-specific KG + book Malware analysis
 - 2021-07-06 Data Mining + book Malware analysis + **暑假布置**
 - 2021-07-07 Data Mining + book Malware analysis
 - 2021-07-08 Data Mining + APT Paper
 - 2021-07-09 Data Mining + APT Paper + CTF
-- 2021-07-10 Data Mining + APT Paper + CTF
+- 2021-07-10 Data Mining + APT Paper + CTF + PhD Share
 - 2021-07-11 APT Paper + CNN + 退修
 - 2021-07-12 APT Paper + 对抗样本 + book Malware analysis
 - 2021-07-13 APT Paper + book Malware analysis + NER
 - 2021-07-14 APT Paper + book Malware analysis + NER
 - 2021-07-15 APT Paper + NER
 - 2021-07-16 APT Paper + NER
-- 2021-07-17 **APT Paper Sumbit** + NER + book Malware analysis
+- 2021-07-17 **APT Paper Sumbit** + NER + book Malware analysis + PhD Share
 
 ---
 
