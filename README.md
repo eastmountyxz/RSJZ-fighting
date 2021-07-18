@@ -88,7 +88,8 @@ deadline
 - 2021-07-15 APT Paper + NER
 - 2021-07-16 APT Paper + NER
 - 2021-07-17 **APT Paper Sumbit** + NER + book Malware analysis + PhD Share
-
+- 2021-07-18 APT Reading + blog NER
+ 
 ---
 
 
