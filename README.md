@@ -91,6 +91,7 @@ deadline
 - 2021-07-18 APT Reading + blog NER
 - 2021-07-19 APT Reading + blog NER + UNICORN
 - 2021-07-20 APT Reading + blog NER
+- 2021-07-20 APT Reading
 
 ---
 
