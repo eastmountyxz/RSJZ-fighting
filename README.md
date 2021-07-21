@@ -6,6 +6,7 @@ Read & Write & Code & Think
 deadline
 - 2021年6月30日 APT Paper
 - 2021年7月10日 ChinaSoft2021
+- 2021年12月31日 MA Paper
 - APT Research
 - APT NER
 - APT 静态分析+动态分析
