@@ -4,8 +4,10 @@ RSJZ fighting~
 Read & Write & Code & Think
 
 deadline
+- 2021年5月30日 MRD Paper
 - 2021年6月30日 APT Paper
 - 2021年7月10日 ChinaSoft2021
+- 2021年7月30日 可信会
 - 2021年12月31日 MA Paper
 - APT Research
 - APT NER
