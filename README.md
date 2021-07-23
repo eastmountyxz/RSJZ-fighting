@@ -93,8 +93,10 @@ deadline
 - 2021-07-19 APT Reading + blog NER + UNICORN
 - 2021-07-20 APT Reading + blog NER
 - 2021-07-20 APT Reading + PPT
-- 2021-07-21 APT Reading + PPT
+- 2021-07-21 APT Reading + PPT + HOLMES
 - 2021-07-22 APT Reading + PPT
+- 2021-07-23 APT Reading + PPT
+- 2021-07-24 **APT PPT Sharing** + NER blog
 
 ---
 
