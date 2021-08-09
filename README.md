@@ -118,4 +118,4 @@ deadline
 - 2021-08-06 ISC Summary + Book + AI
 - 2021-08-07 ISC Summary + Book + AI
 - 2021-08-08 ISC Summary + Book + AI
-
+- 2021-08-09 ISC Summary + Book + APT
