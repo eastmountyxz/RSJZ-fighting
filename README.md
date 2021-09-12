@@ -157,7 +157,7 @@ deadline
 - 2021-09-08 知识图谱信息抽取 + Book + AoMRD论文修改
 - 2021-09-09 知识图谱信息抽取 + Book + AoMRD论文修改 + **NER Accept**
 - 2021-09-10 知识图谱信息抽取 + Book + **AoMRD论文修改**
-
+- 2021-09-11 知识图谱信息抽取 + Book + IOT Detection
 
 ---
 
