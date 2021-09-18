@@ -163,6 +163,8 @@ deadline
 - 2021-09-14 知识图谱信息抽取 + Book + 蠕虫传播机制分析 + IOT Detection
 - 2021-09-15 知识图谱信息抽取 + Book + CS + APT NER
 - 2021-09-16 知识图谱信息抽取 + Book + CS + APT NER + 演示
+- 2021-09-17 知识图谱信息抽取 + Book + CS + APT NER + **演示**
+
 
 ---
 
