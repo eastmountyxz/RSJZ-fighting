@@ -167,7 +167,7 @@ deadline
 - 2021-09-18 AI安全 + Book + CS + APT NER + IOT IDS
 - 2021-09-19 AI安全 + Book + CS + APT NER + IOT IDS
 - 2021-09-20 AI安全 + Book + CS + **APT NER** + IOT IDS
-
+- 2021-09-21 AI安全 + Book + CS + APT NER + IOT IDS + 中秋加班
 
 ---
 
