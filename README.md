@@ -164,10 +164,11 @@ deadline
 - 2021-09-15 知识图谱信息抽取 + Book + CS + APT NER
 - 2021-09-16 知识图谱信息抽取 + Book + CS + APT NER + 演示
 - 2021-09-17 知识图谱信息抽取 + Book + CS + APT NER + **演示**
-- 2021-09-18 AI安全 + Book + CS + APT NER + IOT IDS
-- 2021-09-19 AI安全 + Book + CS + APT NER + IOT IDS
-- 2021-09-20 AI安全 + Book + CS + **APT NER** + IOT IDS
-- 2021-09-21 AI安全 + Book + CS + APT NER + IOT IDS + 中秋加班
+- 2021-09-18 AI安全 + CS + APT NER + IOT IDS
+- 2021-09-19 AI安全 + CS + APT NER + IOT IDS
+- 2021-09-20 AI安全 + CS + **APT NER** + IOT IDS
+- 2021-09-21 AI安全 + CS + APT NER + IOT IDS + 中秋加班
+- 2021-09-22 AI安全 + CS + APT NER + IOT IDS 
 
 ---
 
