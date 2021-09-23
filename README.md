@@ -161,14 +161,17 @@ deadline
 - 2021-09-12 知识图谱信息抽取 + Book + 蠕虫传播机制分析 + IOT Detection
 - 2021-09-13 知识图谱信息抽取 + Book + 蠕虫传播机制分析 + IOT Detection
 - 2021-09-14 知识图谱信息抽取 + Book + 蠕虫传播机制分析 + IOT Detection
-- 2021-09-15 知识图谱信息抽取 + Book + CS + APT NER
-- 2021-09-16 知识图谱信息抽取 + Book + CS + APT NER + 演示
-- 2021-09-17 知识图谱信息抽取 + Book + CS + APT NER + **演示**
-- 2021-09-18 AI安全 + CS + APT NER + IOT IDS
-- 2021-09-19 AI安全 + CS + APT NER + IOT IDS
-- 2021-09-20 AI安全 + CS + **APT NER** + IOT IDS
-- 2021-09-21 AI安全 + CS + APT NER + IOT IDS + 中秋加班
-- 2021-09-22 AI安全 + CS + APT NER + IOT IDS 
+- 2021-09-15 知识图谱信息抽取 + Book + CS-BJ + APT NER
+- 2021-09-16 知识图谱信息抽取 + Book + CS-BJ + APT NER + 演示
+- 2021-09-17 知识图谱信息抽取 + Book + CS-BJ + APT NER + **演示**
+- 2021-09-18 AI安全 + CS-BJ + APT NER + IOT IDS
+- 2021-09-19 AI安全 + CS-BJ + APT NER + IOT IDS
+- 2021-09-20 AI安全 + CS-BJ + **APT NER** + IOT IDS
+- 2021-09-21 AI安全 + CS-BJ + APT NER + IOT IDS + 中秋加班
+- 2021-09-22 AI安全 + CS-BJ + APT NER + IOT IDS 
+- 2021-09-23 AI安全 + CS-BJ + APT NER + IOT IDS 
+
+
 
 ---
 
