@@ -172,8 +172,9 @@ deadline
 - 2021-09-23 AI安全 + CS-BJ + APT NER + IOT IDS 
 - 2021-09-24 AI安全 + **CS-BJ Show** + APT NER + IOT IDS 
 - 2021-09-25 AI安全 + CS-BJ Show + APT NER + IOT IDS 
-- 2021-09-26 AI安全 + APT NER + IOT IDS + 多模态融合 
-- 2021-09-27 AI安全 + **APT NER** + IOT IDS + 多模态融合 
+- 2021-09-26 AI安全 + APT NER + IOT IDS + **多模态融合 **
+- 2021-09-27 AI安全 + **APT NER** + IOT IDS 
+- 2021-09-28 AI安全 + IOT IDS + Book + APT Malware + GNN 
 
 ---
 
