@@ -176,7 +176,7 @@ deadline
 - 2021-09-27 AI安全 + **APT NER** + IOT IDS 
 - 2021-09-28 AI安全 + IOT IDS + Book + APT Malware + GNN + 公众号年终总结
 - 2021-09-29 AI安全 + IOT IDS + Book + APT Malware + GNN 
-
+- 2021-09-30 AI安全 + IOT IDS + Book + APT Malware + GNN 
 
 
 ---
