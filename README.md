@@ -181,3 +181,9 @@ deadline
 
 ---
 
+**October**
+
+- 2021-10-01 AI安全 + IOT IDS + LDA+CNN-BiGRU
+- 
+
+
