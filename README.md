@@ -194,5 +194,6 @@ deadline
 - 2021-10-09 AI安全 + IOT IDS + LDA+CNN-BiGRU
 - 2021-10-10 AI安全 + IOT IDS + LDA+CNN-BiGRU + **校级课题**
 - 2021-10-11 AI安全 + IOT IDS + LDA+CNN-BiGRU
+- 2021-10-12 AI安全 + IOT IDS + LDA+CNN-BiGRU
 
 
