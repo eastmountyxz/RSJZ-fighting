@@ -201,3 +201,4 @@ deadline
 - 2021-10-16 AI安全 + IOT IDS + LDA+CNN-BiGRU
 - 2021-10-17 AI安全 + IOT IDS + BJ
 - 2021-10-18 AI安全 + IOT IDS + BJ
+- 2021-10-19 AI安全 + IOT IDS + DataCon
