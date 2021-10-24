@@ -206,3 +206,7 @@ deadline
 - 2021-10-21 AI安全 + IOT IDS + DataCon
 - 2021-10-22 AI安全 + IOT IDS + DataCon
 - 2021-10-23 AI安全 + IOT IDS + DataCon
+- 2021-10-24 AI安全 + IOT IDS + DataCon
+
+
+
