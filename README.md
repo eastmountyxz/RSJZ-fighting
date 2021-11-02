@@ -221,5 +221,5 @@ deadline
 **November**
 
 - 2021-11-01 AI安全 + **IOT IDS** + CS
-
+- 2021-11-02 AI安全 + IOT IDS + CS
 
