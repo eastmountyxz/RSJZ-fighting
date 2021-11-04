@@ -224,5 +224,6 @@ deadline
 - 2021-11-02 AI安全 + IOT IDS (KG分析) + CS
 - 2021-11-03 AI安全 + IOT IDS  + CS
 - 2021-11-04 AI安全 + IOT IDS (论文总结+可视化数据集) + CS
+- 2021-11-05 AI安全 + IOT IDS (论文总结+可视化数据集) 
 
 
