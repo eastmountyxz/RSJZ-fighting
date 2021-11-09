@@ -228,3 +228,5 @@ deadline
 - 2021-11-06 AI安全 + IOT IDS + home
 - 2021-11-07 AI安全 + IOT IDS
 - 2021-11-07 AI安全 + IOT IDS + Wheat
+- 2021-11-08 AI安全 + IOT IDS (可视化+ML分析) + Bert分类
+
