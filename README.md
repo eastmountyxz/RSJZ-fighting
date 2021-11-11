@@ -231,4 +231,4 @@ deadline
 - 2021-11-08 AI安全 + IOT IDS (可视化+ML分析) + Bert分类
 - 2021-11-09 AI安全 + IOT IDS (可视化+ML分析) + Bert分类
 - 2021-11-10 AI安全 + IOT IDS (DL分析)
-
+- 2021-11-11 AI安全 + IOT IDS (DL分析)
