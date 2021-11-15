@@ -235,5 +235,5 @@ deadline
 - 2021-11-12 AI安全 + IOT IDS (DL分析) + KJT
 - 2021-11-13 AI安全 + IOT IDS (DL分析) + KJT
 - 2021-11-14 AI安全 + IOT IDS (总体框架) + KJT
-
+- 2021-11-15 AI安全 + IOT IDS (资料整理) + KJT
 
