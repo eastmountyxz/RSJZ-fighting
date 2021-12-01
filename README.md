@@ -250,6 +250,6 @@ deadline
 - 2021-11-27 AI安全 + IOT IDS (数据预处理) + Bert
 - 2021-11-28 AI安全 + IOT IDS (数据预处理) + Bert
 - 2021-11-29 AI安全 + IOT IDS (数据预处理) + Bert
-
+- 2021-11-30 AI安全 + IOT IDS (模型设计) + Bert
 
 
