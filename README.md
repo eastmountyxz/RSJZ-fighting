@@ -256,3 +256,6 @@ deadline
 **December**
 
 - 2021-12-01 AI安全 + IOT IDS (模型设计) + Bert + **博士论文初步框架**
+- 2021-12-02 AI安全 + IOT IDS (模型设计+特征选择)
+
+
