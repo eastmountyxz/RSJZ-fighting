@@ -273,6 +273,7 @@ deadline
 - 2021-12-16 AI安全 + IOT IDS (实验) + CC + BZ
 - 2021-12-17 AI安全 + IOT IDS (实验) + BZ
 - 2021-12-18 AI安全 + IOT IDS (实验) + home
+- 2021-12-19 AI安全 + IOT IDS (实验对比)
 
 
 
