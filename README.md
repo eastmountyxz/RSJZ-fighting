@@ -285,6 +285,7 @@ deadline
 - 2021-12-28 AI安全 + 贵财学习分享 + 情感分析 + CS
 - 2021-12-29 AI安全 + AoMRD + Bert情感分析 + CS
 - 2021-12-30 AI安全 + AoMRD + Bert情感分析 + CS
+- 2021-12-31 AI安全 + AoMRD + Bert情感分析 + CS
 
 
 
