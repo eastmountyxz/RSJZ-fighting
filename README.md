@@ -299,3 +299,7 @@ deadline
 - 2022-01-03 AI安全 + AoMRD + Bert情感分析 (场景迁移) + CS + **KJT**
 - 2022-01-04 AI安全 + AoMRD + blog总结 + CS
 - 2022-01-05 AI安全 + AoMRD + blog总结 + CS
+- 2022-01-06 AI安全 + AoMRD + blog总结 + CS
+
+
+
