@@ -301,5 +301,5 @@ deadline
 - 2022-01-05 AI安全 + AoMRD + blog总结 + CS
 - 2022-01-06 AI安全 + AoMRD + blog总结 + CS
 - 2022-01-07 AI安全 + AoMRD + **年终会议** + CS
-
+- 2022-01-08 AI安全 + AoMRD + CS
 
