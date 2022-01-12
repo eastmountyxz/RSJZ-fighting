@@ -304,6 +304,6 @@ deadline
 - 2022-01-08 AI安全 + AoMRD + CS
 - 2022-01-09 AI安全 + AoMRD + CS
 - 2022-01-10 AI安全 + AoMRD + CS
-- 2022-01-11 AI安全 + AoMRD + CS
-
+- 2022-01-11 AI安全 + **AoMRD反馈** + CS 
+- 2022-01-12 AI安全 + CS + 汇报
 
