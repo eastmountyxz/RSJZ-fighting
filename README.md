@@ -322,3 +322,4 @@ deadline
 - 2022-01-26 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
 - 2022-01-27 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
 - 2022-01-28 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
+- 2022-01-29 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
