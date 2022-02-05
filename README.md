@@ -327,8 +327,8 @@ deadline
 - 2022-01-31 过年
 
 
-**January**
-- 2022-01-31 过年
+**February**
+- 2022-02-01 AI安全 + CS + Powershell开启 + Python图像 + 知识发现 + 初一
 
 
 
