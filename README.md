@@ -310,36 +310,36 @@ deadline
 - 2022-01-14 AI安全 + CS + **汇报**
 - 2022-01-15 AI安全 + CS + **Home** + Powershell开启
 - 2022-01-16 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-17 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-18 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-19 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-20 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-21 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-22 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-23 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-24 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-25 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-26 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-27 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-28 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-29 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-01-30 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
+- 2022-01-17 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-18 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-19 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-20 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-21 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-22 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-23 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-24 AI安全 + CS + Python图像 + 知识发现 + 英文论文反馈
+- 2022-01-25 AI安全 + CS + Python图像 + 知识发现 + 中文论文反馈
+- 2022-01-26 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-27 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-28 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-29 AI安全 + CS + Python图像 + 知识发现
+- 2022-01-30 AI安全 + CS + Python图像 + 知识发现
 - 2022-01-31 过年
 
 
 **February**
-- 2022-02-01 AI安全 + CS + Powershell开启 + Python图像 + 知识发现 + 初一
-- 2022-02-02 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-02-03 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-02-04 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-02-05 AI安全 + CS + Powershell开启 + Python图像 + 知识发现
-- 2022-02-06 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现
-- 2022-02-07 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现
-- 2022-02-08 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现
-- 2022-02-09 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现
-- 2022-02-10 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现 + 审稿
-- 2022-02-11 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现 
-- 2022-02-12 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现 
-
+- 2022-02-01 AI安全 + CS + Python图像 + 知识发现 + 初一
+- 2022-02-02 AI安全 + CS + Python图像 + 知识发现
+- 2022-02-03 AI安全 + CS + Python图像 + 知识发现
+- 2022-02-04 AI安全 + CS + Python图像 + 知识发现
+- 2022-02-05 AI安全 + CS + Python图像 + 知识发现
+- 2022-02-06 AI安全 + CS + Python图像 + 知识发现
+- 2022-02-07 AI安全 + CS + Python图像 + 知识发现
+- 2022-02-08 AI安全 + CS + Python图像 + 知识发现
+- 2022-02-09 AI安全 + CS + Python图像 + 知识发现
+- 2022-02-10 AI安全 + CS + Python图像 + 知识发现 + 审稿
+- 2022-02-11 AI安全 + CS + Python图像 + 知识发现 + ZN
+- 2022-02-12 AI安全 + CS + Python图像 + 知识发现 + ZN
+- 2022-02-13 AI安全 + **论文修改** + Powershell开启 + Python图像 + 知识发现 + ZN
 
 
