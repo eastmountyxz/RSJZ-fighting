@@ -342,5 +342,5 @@ deadline
 - 2022-02-12 AI安全 + CS + Python图像 + 知识发现 + ZN
 - 2022-02-13 AI安全 + **论文修改** + Powershell开启 + Python图像 + 知识发现 + ZN
 - 2022-02-14 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现 + ZN
-
-
+- 2022-02-15 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现 + ZN
+- 2022-02-16 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现 + ZN + **phd申请汇报**
