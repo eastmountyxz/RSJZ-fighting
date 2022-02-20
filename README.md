@@ -347,4 +347,4 @@ deadline
 - 2022-02-17 AI安全 + 论文修改 + Powershell开启 + Python图像 + 知识发现 + ZN + **phd申请汇报**
 - 2022-02-18 AI安全 + **IOT IDS修改反馈** + Powershell开启 + Python图像 + 知识发现
 - 2022-02-19 AI安全 + AoMRD论文修改 + Powershell开启 + Python图像 + 知识发现
-
+- 2022-02-2- AI安全 + AoMRD论文修改 + Powershell开启 + Python图像 + 知识发现
