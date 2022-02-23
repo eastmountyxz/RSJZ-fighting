@@ -350,3 +350,5 @@ deadline
 - 2022-02-20 AI安全 + AoMRD论文修改 + Powershell开启 + Python图像 + 知识发现
 - 2022-02-21 AI安全 + AoMRD论文修改 + Powershell开启 + Python图像 + 知识发现
 - 2022-02-22 AI安全 + AoMRD论文修改 + Powershell开启 + Python图像 + 知识发现
+- 2022-02-23 AI安全 + AoMRD论文修改 + Powershell开启 + Python图像 + 知识发现 + 国自科
+
