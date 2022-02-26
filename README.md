@@ -353,6 +353,6 @@ deadline
 - 2022-02-23 AI安全 + AoMRD论文修改 + Powershell开启 + Python图像 + 知识发现 + 国自科
 - 2022-02-24 AI安全 + AoMRD论文修改 + Powershell开启 + Python图像 + 知识发现
 - 2022-02-25 AI安全 + AoMRD论文修改 + Powershell开启 + **Python图像识别（车牌识别）**
-
+- 2022-02-26 AI安全 + AoMRD论文修改 + Powershell开启 + 情感分析修改
 
 
