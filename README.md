@@ -363,5 +363,5 @@ deadline
 - 2022-03-01 AI安全 + AoMRD论文修改 + Powershell开启 + NER + **CS**
 - 2022-03-02 AI安全 + AoMRD论文修改 + Powershell开启 + **NER投递** + CS + NCCA
 - 2022-03-03 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + 文本分类
-- 2022-03-04 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + 文本分类
+- 2022-03-04 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + 文本分类 + **科技情感**
 
