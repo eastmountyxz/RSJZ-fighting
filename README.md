@@ -365,9 +365,9 @@ deadline
 - 2022-03-03 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + 文本分类
 - 2022-03-04 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + 文本分类 + **科技情感**
 - 2022-03-05 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + 文本分类
-- 2022-03-06 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + 文本分类 + **国家社科完成却禁止**
+- 2022-03-06 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + 文本分类 + 社科完成却禁止
 - 2022-03-07 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + **文本分类(第10章)**
-- 2022-03-08 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + 应急
+- 2022-03-08 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + 应急反馈
 - 2022-03-09 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + **国统**
-
+- 2022-03-10 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + CS + **NER修改12页反馈**
 
