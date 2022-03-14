@@ -373,5 +373,5 @@ deadline
 - 2022-03-11 AI安全 + AoMRD论文修改 + Powershell抽象语法树 + **Powershell文献总结**
 - 2022-03-12 AI安全 + AoMRD论文修改 + Powershell AST抽取 + **从零到壹图像处理**
 - 2022-03-13 AI安全 + AoMRD论文修改 + Powershell AST抽取 
-- 2022-03-13 AI安全 + **AoMRD论文修改** + Powershell AST抽取  + **AI安全论文阅读开启**
+- 2022-03-14 AI安全 + **AoMRD论文修改** + Powershell AST抽取  + **AI安全论文阅读开启**
 
