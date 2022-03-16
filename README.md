@@ -375,3 +375,6 @@ deadline
 - 2022-03-13 AI安全 + AoMRD论文修改 + Powershell AST抽取 
 - 2022-03-14 AI安全 + **AoMRD论文修改** + Powershell AST抽取  + **AI安全论文阅读开启**
 - 2022-03-15 AI安全 + **AoMRD论文反馈** + Powershell AST抽取 
+- 2022-03-16 AI安全 + Powershell AST抽取 + CS + 机器学习
+
+
