@@ -378,5 +378,6 @@ deadline
 - 2022-03-16 AI安全 + Powershell AST抽取 + CS + 机器学习
 - 2022-03-17 AI安全 + Powershell分类 + CS + 机器学习
 - 2022-03-18 AI安全 + Powershell框架 + CS + 机器学习 + **IOT IDS Accept**
-- 2022-03-19 AI安全 + Powershell框架 + CS + 机器学习 + DW
-- 2022-03-20 AI安全 + Powershell框架 + CS + 机器学习 + DW
+- 2022-03-19 AI安全 + Powershell实验 + CS + 机器学习 + DW
+- 2022-03-20 AI安全 + Powershell实验 + CS + 机器学习 + DW
+- 2022-03-20 AI安全 + Powershell实验 + CS + 机器学习 + DW
