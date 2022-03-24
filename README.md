@@ -381,6 +381,6 @@ deadline
 - 2022-03-19 AI安全 + Powershell实验 + CS + 机器学习 + DW
 - 2022-03-20 AI安全 + Powershell实验 + CS + 机器学习 + DW
 - 2022-03-21 AI安全 + Powershell实验 + CS + 机器学习 + DW
-- 2022-03-22 AI安全 + Powershell实验 + CS + 机器学习 + **DW会议** + **IOT IDS反馈**
-- 2022-03-23 AI安全 + Powershell图谱 + CS + 机器学习 + DW会议
-- 2022-03-24 AI安全 + Powershell实验 + CS + 机器学习 + DW会议
+- 2022-03-22 AI安全 + Powershell实验 + CS + 机器学习 + DW会议 + **IOT IDS反馈**
+- 2022-03-23 AI安全 + Powershell图谱 + CS + 机器学习 + **DW会议**
+- 2022-03-24 AI安全 + Powershell实验 + CS + 机器学习
