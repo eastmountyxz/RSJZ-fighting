@@ -387,3 +387,5 @@ deadline
 - 2022-03-25 AI安全 + Powershell实验 + CS + 机器学习
 - 2022-03-26 AI安全 + Powershell实验 + CS + 机器学习 + 数据治理 + CCS19阅读&分享
 - 2022-03-27 AI安全 + Powershell实验 + CS + 机器学习 + 数据治理
+- 2022-03-28 AI安全 + Powershell实验 + CS + 机器学习 + 数据治理 + 五零会议&集成部署
+
