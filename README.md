@@ -389,4 +389,5 @@ deadline
 - 2022-03-27 AI安全 + Powershell撰写 + CS + 数据治理
 - 2022-03-28 AI安全 + Powershell撰写 + CS + 数据治理 + 五零会议&集成部署
 - 2022-03-29 AI安全 + Powershell撰写 + CS + 集成部署 + 0603
-- 2022-03-29 AI安全 + Powershell撰写 + CS + 集成部署
+- 2022-03-30 AI安全 + Powershell撰写 + CS + 集成部署
+- 2022-03-31 AI安全 + Powershell撰写 + CS + 集成部署
