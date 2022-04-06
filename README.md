@@ -399,3 +399,6 @@ deadline
 - 2022-04-03 AI安全 + Powershell实验部分 + CS + 集成部署
 - 2022-04-04 AI安全 + Powershell实验部分 + CS + 集成部署 + AlexNet
 - 2022-04-05 AI安全 + Powershell实验部分 + CS + 集成部署 + AlexNet
+- 2022-04-06 AI安全 + Powershell实验部分 + CS + 集成部署 
+
+
