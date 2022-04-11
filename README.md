@@ -403,3 +403,5 @@ deadline
 - 2022-04-07 AI安全 + Powershell引言 + CS + 集成部署 
 - 2022-04-08 AI安全 + Powershell引言 + CS + 集成部署 
 - 2022-04-09 AI安全 + Powershell引言 + CS + 集成部署 
+- 2022-04-10 AI安全 + Powershell引言 + CS + 集成部署 + IE-AlexNet
+- 2022-04-11 AI安全 + Powershell引言 + CS + 集成部署 + **IE-AlexNet完成**
