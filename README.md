@@ -407,4 +407,8 @@ deadline
 - 2022-04-11 AI安全 + Powershell引言 + CS + 集成部署 + **IE-AlexNet完成** + 季度TJ
 - 2022-04-12 AI安全 + Powershell实验补充 + CS + 集成部署
 - 2022-04-13 AI安全 + Powershell实验补充 + CS + 集成部署
+- 2022-04-14 AI安全 + Powershell实验补充 + CS + 集成部署
+- 2022-04-15 AI安全 + Powershell模型 + CS + 集成部署
+- 2022-04-16 AI安全 + Powershell摘要 + CS + 集成部署
+
 
