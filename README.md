@@ -410,5 +410,6 @@ deadline
 - 2022-04-14 AI安全 + Powershell实验补充 + CS + 集成部署
 - 2022-04-15 AI安全 + Powershell模型 + CS + 集成部署
 - 2022-04-16 AI安全 + Powershell摘要 + CS + 集成部署
+- 2022-04-17 AI安全 + Powershell相关工作 + CS + 集成部署
 
 
