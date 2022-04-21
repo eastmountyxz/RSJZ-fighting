@@ -413,4 +413,4 @@ deadline
 - 2022-04-17 AI安全 + Powershell相关工作 + CS + 集成部署
 - 2022-04-18 AI安全 + Powershell相关工作 + CS + 集成部署 + 审稿
 - 2022-04-19 AI安全 + Powershell模型设计 + CS + 集成部署
-
+- 2022-04-20 AI安全 + Powershell模型设计 + CS + 集成部署 + **NER反馈修改**
