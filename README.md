@@ -424,3 +424,7 @@ deadline
 - 2022-04-28 AI安全 + AIR论文总结 + CS + 集成部署 + PDDL + **IoT IDS论文见刊**
 - 2022-04-29 AI安全 + AIR论文总结 + CS + 集成部署 + Powershell PPT
 - 2022-04-30 AI安全 + AIR论文总结 + CS + 集成部署 + Powershell PPT
+
+**May**
+
+- 2022-05-01 AI安全 + AIR论文总结 + CS + 集成部署 + Powershell PPT
