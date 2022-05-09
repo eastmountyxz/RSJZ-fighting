@@ -432,4 +432,6 @@ deadline
 - 2022-05-03 AI安全 + AIR论文总结 + CS + 集成部署 + 组会
 - 2022-05-04 AI安全 + AIR论文总结 + CS + 集成部署 + Transformer总结 + 系统开发
 - 2022-05-05 AI安全 + AIR论文总结 + CS + 集成部署
-- 2022-05-05 AI安全 + AIR论文总结 + CS + 集成部署 + **Powershell汇报**
+- 2022-05-06 AI安全 + AIR论文总结 + CS + 集成部署 + **Powershell汇报**
+- 2022-05-07 AI安全 + AIR论文总结 + CS + 集成部署
+- 2022-05-08 AI安全 + AIR论文总结 + CS + 集成部署 + Transformer总结
