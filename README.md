@@ -1,6 +1,7 @@
 # RSJZ-fighting
 RSJZ fighting~
 
+
 Read & Write & Code & Think
 
 deadline
@@ -455,5 +456,5 @@ deadline
 - 2022-05-26 AI安全 + CS
 - 2022-05-27 AI安全 + CS + **JF**
 - 2022-05-28 AI安全 + CS + **GNN总结** + Powershell总体实验
-
+- 2022-05-29 AI安全 + CS + Powershell总体实验
 
