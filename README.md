@@ -461,3 +461,8 @@ deadline
 - 2022-05-31 AI安全 + CS + Powershell总体实验 + 文档
 
 **June**
+
+- 2022-06-01 AI安全 + CS + Powershell总体实验 + 文档
+- 2022-06-02 AI安全 + CS + Powershell总体实验 + 文档 + 分享
+
+
