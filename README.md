@@ -469,5 +469,6 @@ deadline
 - 2022-06-05 Important 
 - 2022-06-06 Important 
 - 2022-06-07 AI安全 + CS + PowerShell数据重新整理 + 文档 + 分享
-
+- 2022-06-08 AI安全 + CS + PowerShell数据重新整理
+- 2022-06-09 AI安全 + CS + PowerShell数据最终实验 + **Bert最终稿**
 
