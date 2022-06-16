@@ -477,5 +477,5 @@ deadline
 - 2022-06-13 AI安全 + CS + 文档
 - 2022-06-14 AI安全 + CS + PowerShell数据最终实验 + 文档 + 系统集成（配置成功） + PDDL
 - 2022-06-15 AI安全 + CS + PowerShell数据最终实验 + 文档 + PDDL冲刺
-
+- 2022-06-16 AI安全 + CS + PowerShell数据最终实验 + 文档 + PDDL冲刺
 
