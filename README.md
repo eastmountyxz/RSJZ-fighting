@@ -492,3 +492,7 @@ deadline
 - 2022-06-28 AI安全 + CS + PowerShell数据最终实验 + KT + APT长摘要
 - 2022-06-29 AI安全 + CS + PowerShell数据最终实验 + KT + 情感分析反馈
 - 2022-06-30 AI安全 + CS + PowerShell数据最终实验 + KT
+
+**July**
+- 2022-07-01 AI安全 + CS + PowerShell数据最终实验 + KT
+
