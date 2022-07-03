@@ -495,4 +495,4 @@ deadline
 
 **July**
 - 2022-07-01 AI安全 + CS + PowerShell数据最终实验 + KT
-
+- 2022-07-02 AI安全 + CS + PowerShell数据最终实验 + KT
