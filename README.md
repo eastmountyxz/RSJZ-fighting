@@ -500,5 +500,5 @@ deadline
 - 2022-07-04 AI安全 + CS + PowerShell数据最终实验 + KT + 综述 + **终于又沉下心来**
 - 2022-07-05 AI安全 + CS + PowerShell数据最终实验 + KT + 综述
 - 2022-07-06 AI安全 + CS + PowerShell数据最终实验 + **KT** + 综述
-
+- 2022-07-07 AI安全 + CS + PowerShell数据最终实验 + KT + 综述
 
