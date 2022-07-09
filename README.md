@@ -502,3 +502,4 @@ deadline
 - 2022-07-06 AI安全 + CS + PowerShell数据最终实验 + **KT** + 综述
 - 2022-07-07 AI安全 + CS + PowerShell数据最终实验 + 综述
 - 2022-07-08 AI安全 + CS + PowerShell数据最终实验 + 综述
+- 2022-07-09 AI安全 + CS + PowerShell数据最终实验 + 综述
