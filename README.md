@@ -513,4 +513,5 @@ deadline
 - 2022-07-17 AI安全 + PowerShell数据最终实验 + 攻击检测 第二部分
 - 2022-07-18 AI安全 + PowerShell数据最终实验 + 攻击检测 第二部分
 - 2022-07-19 AI安全 + PowerShell数据最终实验 + 攻击检测 第二部分
-- 2022-07-20 AI安全 + PowerShell数据最终实验 + 攻击检测 第二部分
+- 2022-07-20 AI安全 + PowerShell数据最终实验 + 攻击检测 第二部分 + QAX
+- 2022-07-21 AI安全 + PowerShell数据最终实验 + 攻击检测 第二部分 + QAX
