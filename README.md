@@ -518,4 +518,4 @@ deadline
 - 2022-07-22 AI安全 + PowerShell数据最终实验 + 攻击检测 第二部分
 - 2022-07-23 AI安全 + PowerShell数据最终实验 + 攻击检测 第二部分
 - 2022-07-24 AI安全 + **PowerShell论文提交** + 攻击检测 第二部分 + Fighting & loveNa
-
+- 2022-07-25 AI安全 + Book深度学习 + 攻击检测 第二部分 + 学生项目
