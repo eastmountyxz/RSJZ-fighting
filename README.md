@@ -565,4 +565,4 @@ deadline
 **September**
 
 - 2022-09-01 AI安全 + Book基础知识 + 攻击检测 第二部分 + LUO + 开启新征途 + Blog
-
+- 2022-09-02 AI安全 + Book基础知识 + 攻击检测 第二部分 + LUO + 开启新征途 + Blog
