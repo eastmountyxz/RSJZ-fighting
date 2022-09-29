@@ -592,5 +592,5 @@ deadline
 - 2022-09-26 AI安全 + Book基础知识 + 攻击检测 第二部分 + CS + **PowerShell反馈**
 - 2022-09-27 AI安全 + Book基础知识 + 攻击检测 第二部分 + CS + ZH + KJT
 - 2022-09-28 AI安全 + Book基础知识 + 攻击检测 第二部分 + CS + ZH + KJT
-
+- 2022-09-29 AI安全 + Book基础知识 + 攻击检测 第二部分 + CS + ZH + KJT
 
