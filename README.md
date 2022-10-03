@@ -598,3 +598,4 @@ deadline
 
 **October**
 
+- 2022-10-01 AI安全 + Book基础知识 + 攻击检测 第二部分 + CS + ZH + KJT
