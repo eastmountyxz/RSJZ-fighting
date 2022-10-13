@@ -610,4 +610,5 @@ deadline
 - 2022-10-10 AI安全 + Book基础知识 + **完成攻击检测 第二部分（特征）** + CS + **BJ**
 - 2022-10-11 AI安全 + Book基础知识 + 攻击背景 第〇部分 + CS + **BJ** + BinDiff Blog
 - 2022-10-12 AI安全 + Book基础知识 + 攻击背景 第〇部分 + CS + **BJ** + BinDiff Blog
+- 2022-10-13 AI安全 + Book基础知识 + 攻击背景 第〇部分 + CS + **BJ** + Word
 
