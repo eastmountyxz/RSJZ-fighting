@@ -630,3 +630,7 @@ deadline
 - 2022-10-30 AI安全 + Book基础知识 + 攻击检测 第一部分 + CS + Word + 测试
 - 2022-10-31 AI安全 + Book基础知识 + 攻击检测 第一部分 + CS + Word + 测试 + **PPT汇报**
 
+
+**November**
+
+
