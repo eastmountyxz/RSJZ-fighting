@@ -633,4 +633,4 @@ deadline
 
 **November**
 
-
+- 2022-11-01 AI安全 + Book基础知识 + 攻击检测 第一部分 + CS + Word + 测试
