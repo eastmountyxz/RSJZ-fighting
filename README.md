@@ -659,3 +659,5 @@ deadline
 - 2022-11-24 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + 测试 + 大修PD
 - 2022-11-25 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + 测试 + **大修PD反馈**
 - 2022-11-26 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog
+- 2022-11-27 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog
+
