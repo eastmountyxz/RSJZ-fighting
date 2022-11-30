@@ -661,5 +661,5 @@ deadline
 - 2022-11-26 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + 回归
 - 2022-11-27 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog 
 - 2022-11-28 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DeepWalk
-
-
+- 2022-11-29 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DeepWalk
+- 2022-11-30 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DeepWalk
