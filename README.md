@@ -670,4 +670,5 @@ deadline
 - 2022-12-02 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + QAX KG
 - 2022-12-03 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon
 - 2022-12-04 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon
-- 2022-12-05 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon
+- 2022-12-05 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + No.1
+- 2022-12-06 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon
