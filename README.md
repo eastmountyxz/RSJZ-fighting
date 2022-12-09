@@ -673,3 +673,5 @@ deadline
 - 2022-12-05 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + N1
 - 2022-12-06 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon
 - 2022-12-07 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + 贵财结题
+- 2022-12-08 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + 贵财结题 + Home
+
