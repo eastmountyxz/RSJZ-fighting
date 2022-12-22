@@ -687,3 +687,4 @@ deadline
 - 2022-12-19 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + 贵财结题
 - 2022-12-20 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + **贵财结题整理完成**
 - 2022-12-21 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
+- 2022-12-22 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
