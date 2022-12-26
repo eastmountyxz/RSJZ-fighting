@@ -691,3 +691,4 @@ deadline
 - 2022-12-23 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
 - 2022-12-24 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + 数据增强
 - 2022-12-25 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + 数据增强
+- 2022-12-26 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + 数据增强
