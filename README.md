@@ -696,3 +696,4 @@ deadline
 - 2022-12-28 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + **水书识别完成**
 - 2022-12-29 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + **黔科合2019审核通过**
 - 2022-12-30 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
+- 2022-12-31 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
