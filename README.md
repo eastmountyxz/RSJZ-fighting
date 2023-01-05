@@ -703,3 +703,4 @@ deadline
 ## 2023
 - 2023-01-01 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
 - 2023-01-02 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
+- 2023-01-03 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
