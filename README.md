@@ -714,5 +714,5 @@ deadline
 - 2023-01-11 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 年终总结 + 项目推进
 - 2023-01-12 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 年终总结
 - 2023-01-13 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 年终总结
-
+- 2023-01-14 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 年终总结
 
