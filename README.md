@@ -717,3 +717,4 @@ deadline
 - 2023-01-14 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
 - 2023-01-15 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
 - 2023-01-16 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
+- 2023-01-17 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
