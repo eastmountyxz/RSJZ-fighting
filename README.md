@@ -709,7 +709,7 @@ deadline
 - 2023-01-06 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
 - 2023-01-07 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
 - 2023-01-08 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2023-01-09 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + **NDBG**
+- 2023-01-09 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + **NDBG-cs**
 - 2023-01-10 AI安全 + Book基础知识 + **终稿初稿完成 泪目** + CS + Word + Blog + Paper(AI+文字识别+安全) + 统计信息
 - 2023-01-11 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 年终总结 + 项目推进
 - 2023-01-12 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 年终总结
@@ -718,3 +718,5 @@ deadline
 - 2023-01-15 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
 - 2023-01-16 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
 - 2023-01-17 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
+- 2023-01-17 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + **电影分析(提交)** 
+
