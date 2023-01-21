@@ -721,4 +721,4 @@ deadline
 - 2023-01-18 AI安全 + Book基础知识 + 动静态分析论文开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + **电影分析(提交)** 
 - 2023-01-19 AI安全 + **Book基础知识(第2章)** + 动静态分析论文开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + CSDN博客十佳评选
 - 2023-01-20 AI安全 + Book基础知识(第2章) + 动静态分析论文开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
-
+- 2023-01-21 AI安全 + Book基础知识(第2章) + 动静态分析论文开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
