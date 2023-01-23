@@ -666,62 +666,62 @@ deadline
 
 **December**
 
-- 2022-12-01 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon
-- 2022-12-02 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + QAX KG
-- 2022-12-03 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon
-- 2022-12-04 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon
-- 2022-12-05 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + N1
-- 2022-12-06 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon
-- 2022-12-07 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + 贵财结题
-- 2022-12-08 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + 贵财结题 + Home
-- 2022-12-09 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + 贵财结题
-- 2022-12-10 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + 贵财结题
-- 2022-12-11 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + 贵财结题
-- 2022-12-12 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + 贵财结题
-- 2022-12-13 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + 贵财结题
-- 2022-12-14 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + DataCon + 贵财结题
-- 2022-12-15 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + **DataCon** + 贵财结题
-- 2022-12-16 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + 贵财结题 + 安全书籍
-- 2022-12-17 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + 贵财结题 + 安全书籍
-- 2022-12-18 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + 贵财结题 + 安全书籍
-- 2022-12-19 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + 贵财结题
-- 2022-12-20 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + **贵财结题整理完成**
-- 2022-12-21 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2022-12-22 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + **电影分析**
-- 2022-12-23 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2022-12-24 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + 数据增强
-- 2022-12-25 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + 数据增强
-- 2022-12-26 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + 数据增强
-- 2022-12-27 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + 数据增强
-- 2022-12-28 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + **水书识别完成**
-- 2022-12-29 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + **黔科合2019审核通过**
-- 2022-12-30 AI安全 + Book基础知识 + **攻击检测 第三部分** + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2022-12-31 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
+- 2022-12-01 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon
+- 2022-12-02 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon + QAX KG
+- 2022-12-03 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon
+- 2022-12-04 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon
+- 2022-12-05 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon + N1
+- 2022-12-06 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon
+- 2022-12-07 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon + 贵财结题
+- 2022-12-08 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon + 贵财结题 + Home
+- 2022-12-09 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon + 贵财结题
+- 2022-12-10 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word +DataCon + 贵财结题
+- 2022-12-11 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon + 贵财结题
+- 2022-12-12 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon + 贵财结题
+- 2022-12-13 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon + 贵财结题
+- 2022-12-14 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + DataCon + 贵财结题
+- 2022-12-15 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + **DataCon汇报** + 贵财结题
+- 2022-12-16 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + 贵财结题 + 安全书籍
+- 2022-12-17 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + 贵财结题 + 安全书籍
+- 2022-12-18 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + 贵财结题 + 安全书籍
+- 2022-12-19 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + 贵财结题
+- 2022-12-20 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + **贵财结题整理完成**
+- 2022-12-21 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
+- 2022-12-22 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全) + **电影分析**
+- 2022-12-23 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
+- 2022-12-24 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全) + 数据增强
+- 2022-12-25 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全) + 数据增强
+- 2022-12-26 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全) + 数据增强
+- 2022-12-27 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全) + 数据增强
+- 2022-12-28 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全) + **水书识别完成**
+- 2022-12-29 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全) + **黔科合2019审核通过**
+- 2022-12-30 AI安全 + Book基础知识 + **攻击检测 第三部分** + CS + Word + Paper(AI+文字识别+安全)
+- 2022-12-31 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
 
 ---
 
 ## 2023
-- 2023-01-01 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2023-01-02 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2023-01-03 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2023-01-04 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2023-01-05 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2023-01-06 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2023-01-07 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2023-01-08 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全)
-- 2023-01-09 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Blog + Paper(AI+文字识别+安全) + **NDBG-cs**
-- 2023-01-10 AI安全 + Book基础知识 + **终稿初稿完成 泪目** + CS + Word + Blog + Paper(AI+文字识别+安全) + 统计信息
-- 2023-01-11 AI安全 + Book基础知识 + 动静态分析开启 + Word + Blog + Paper(AI+文字识别+安全) + 年终总结 + 项目推进
-- 2023-01-12 AI安全 + Book基础知识 + 动静态分析开启 + Word + Blog + Paper(AI+文字识别+安全) + 年终总结
-- 2023-01-13 AI安全 + Book基础知识 + 动静态分析开启 + Word + Blog + Paper(AI+文字识别+安全) + 年终总结
-- 2023-01-14 AI安全 + Book基础知识 + 动静态分析开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
-- 2023-01-15 AI安全 + Book基础知识 + 动静态分析开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
-- 2023-01-16 AI安全 + Book基础知识 + 动静态分析开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
-- 2023-01-17 AI安全 + Book基础知识 + 动静态分析开启 + Word + Blog + Paper(AI+文字识别+安全) + 电影分析
+- 2023-01-01 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
+- 2023-01-02 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
+- 2023-01-03 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
+- 2023-01-04 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
+- 2023-01-05 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
+- 2023-01-06 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
+- 2023-01-07 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
+- 2023-01-08 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全)
+- 2023-01-09 AI安全 + Book基础知识 + 攻击检测 第三部分 + CS + Word + Paper(AI+文字识别+安全) + **NDBG-cs**
+- 2023-01-10 AI安全 + Book基础知识 + **终稿初稿完成 泪目** + CS + Word + Paper(AI+文字识别+安全) + 统计信息
+- 2023-01-11 AI安全 + Book基础知识 + 动静态分析开启 + Word + Paper(AI+文字识别+安全) + 年终总结 + 项目推进
+- 2023-01-12 AI安全 + Book基础知识 + 动静态分析开启 + Word + Paper(AI+文字识别+安全) + 年终总结
+- 2023-01-13 AI安全 + Book基础知识 + 动静态分析开启 + Word + Paper(AI+文字识别+安全) + 年终总结
+- 2023-01-14 AI安全 + Book基础知识 + 动静态分析开启 + Word + Paper(AI+文字识别+安全) + 电影分析
+- 2023-01-15 AI安全 + Book基础知识 + 动静态分析开启 + Word + Paper(AI+文字识别+安全) + 电影分析
+- 2023-01-16 AI安全 + Book基础知识 + 动静态分析开启 + Word + Paper(AI+文字识别+安全) + 电影分析
+- 2023-01-17 AI安全 + Book基础知识 + 动静态分析开启 + Word + Paper(AI+文字识别+安全) + 电影分析
 - 2023-01-18 AI安全 + Book基础知识 + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + **电影分析(提交)** 
 - 2023-01-19 AI安全 + **Book基础知识(第2章)** + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + CSDN博客十佳评选
-- 2023-01-20 AI安全 + Book基础知识(第2章) + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
-- 2023-01-21 AI安全 + Book基础知识(第2章) + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
+- 2023-01-20 AI安全 + Book基础知识(第2章) + 动静态分析开启 + Word + 电影Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
+- 2023-01-21 AI安全 + Book基础知识(第2章) + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客 + **过年**
 - 2023-01-22 AI安全 + Book基础知识(第2章) + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
-- 2023-01-22 AI安全 + **Book基础知识(第2章)完成** + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
+- 2023-01-23 AI安全 + **Book基础知识(第2章)完成** + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
 
