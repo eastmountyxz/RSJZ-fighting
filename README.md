@@ -723,3 +723,5 @@ deadline
 - 2023-01-20 AI安全 + Book基础知识(第2章) + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
 - 2023-01-21 AI安全 + Book基础知识(第2章) + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
 - 2023-01-22 AI安全 + Book基础知识(第2章) + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
+- 2023-01-22 AI安全 + **Book基础知识(第2章)完成** + 动静态分析开启 + Word + Blog分享 + Paper(AI+文字识别+安全) + VSCode博客
+
