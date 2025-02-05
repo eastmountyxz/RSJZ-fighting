@@ -1444,3 +1444,5 @@ September
 - 2025-02-01 **论文修改返稿** + WHU + NSFC
 - 2025-02-02 ICFG新论文开启 + WHU + NSFC + LLM学习
 - 2025-02-03 FAST天眼
+- 2025-02-04 ICFG新论文开启 + WHU + NSFC + **PyTorch学习**
+- 2025-02-05 开工大吉 + WHU + NSFC + LLM学习
