@@ -1450,3 +1450,4 @@ September
 - 2025-02-07 **WHU** + NSFC + LLM学习
 - 2025-02-10 **WHU** + NSFC + LLM学习
 - 2025-02-11 **WHU** + NSFC + LLM学习
+- 2025-02-14 **NSFC** + LLM学习 + 论文修改 + 重大专项
